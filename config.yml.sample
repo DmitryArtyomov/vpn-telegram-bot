@@ -1,0 +1,4 @@
+prefix: pref
+token:
+expiration_days: 30
+timezone: '+01:00'
